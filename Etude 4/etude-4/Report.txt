@@ -1,0 +1,11 @@
+Question 1:
+    4 x 20 = 80L
+    60 + 80 = 140L
+    140 x 12 = 1680Km
+    1680 / 2 = 840Km
+
+    Therefore you can safetly go 830Km into the desert without refulling and having enough full to make it back
+    to the start. This is also allowing a 10Km buffer
+
+    Question 2:
+        
